@@ -350,6 +350,26 @@ footer h2
     background-color: #469C9A;
 }
 
+#Formulario button[type=button]
+{
+    background-color: #378785;
+    color: white;
+    padding: 12px 20px;
+    margin-top: 20px; 
+    font-weight: 600;
+    width: 99%;
+      
+    /*Borda*/
+    border: none;
+    border-radius: 4px;
+      
+    /*Mouse*/
+    cursor: pointer;
+
+}
+
+
+
 #Section_01
 {
     width: 50%;
